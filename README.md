@@ -1,16 +1,43 @@
-# React + Vite
+🚀 DSA Progress Tracker
+A clean and minimal React-based DSA Progress Tracker to monitor topic-wise problem solving progress.
+Built to stay consistent with Data Structures & Algorithms preparation and visualize growth over time.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 Features
+✅ Add DSA topics
+📊 Track number of questions solved
+🔍 Filter by difficulty (Easy / Medium / Hard)
+📈 Total progress counter
+🗑 Delete topics
+⚡ Clean and responsive UI 
 
-Currently, two official plugins are available:
+🛠 Tech Stack
+React
+Vite
+JavaScript
+CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone the repository:
+git clone https://github.com/Jadhavgau/dsa-progress-tracker.git
+cd dsa-progress-tracker
 
-## React Compiler
+Install dependencies:
+npm install
+Run the development server:
+npm run dev
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎯 Purpose
+This project is built to:
+Maintain DSA consistency
+Track preparation progress
+Strengthen React fundamentals
+Build practical portfolio projects
 
-## Expanding the ESLint configuration
+📌 Future Improvements
+Progress bar visualization
+Local storage support
+Edit topic functionality
+Dark mode
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👩‍💻 Author
+Gauri Jadhav
+Aspiring Software Developer | DSA Enthusiast
